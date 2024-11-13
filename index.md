@@ -9,7 +9,7 @@
 |[Control Structures](#control-structures)|
 |[Functions](#functions)|
 |[Arrays](#arrays)|
-|[Structures and Unions Structures](#structures-and-unions-structures)|
+|[Structures and Unions](#structures-and-unions)|
 
 
 #  Introduction to Computer Fundamentals 
